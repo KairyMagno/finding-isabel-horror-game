@@ -45,7 +45,7 @@ Developed as a capstone project with a team of student developers.
 ## 📸 Screenshots
 
 ### 🎮 Gameplay Start
-![Starting](Starting.png)
+![Starting](screenshots/Starting.png)
 
 ### 🎮 Controls
 ![Controls](gamecontrols.png)
