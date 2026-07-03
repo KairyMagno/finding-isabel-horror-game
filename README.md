@@ -36,6 +36,11 @@ Capstone Project (2026)
 
 ---
 
+## 🏆 Recognition
+
+Awarded **Best Software Development Study** for Capstone Project
+
+---
 ## 👥 Team
 
 Developed as a capstone project with a team of student developers.
