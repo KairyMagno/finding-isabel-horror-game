@@ -10,6 +10,12 @@ A psychological horror desktop game developed as a capstone project using Unity.
 
 ---
 
+## 🎮 Download Game
+
+👉 [Download Latest Build](https://github.com/KairyMagno/finding-isabel-horror-game/releases/tag/v1.0)
+
+---
+
 ## 📖 About
 
 **Finding Isabel** is a psychological horror game where players explore eerie environments, solve puzzles, and uncover a mysterious story. The game focuses on atmospheric exploration, suspense, and immersive storytelling.
