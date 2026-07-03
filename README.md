@@ -59,6 +59,10 @@ Developed as a capstone project with a team of student developers.
 ### 🚪 Door Interaction
 ![Open Door](screenshots/OpenDoor.png)
 
+### 🧠 Horror Interaction System
+![Horror View 1](screenshots/HorrorView1.png)
+![Horror View 2](screenshots/HorrorView2.png)
+
 ---
 
 ## 🚀 Features
