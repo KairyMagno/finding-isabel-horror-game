@@ -6,11 +6,7 @@ A psychological horror desktop game developed as a capstone project using Unity.
 
 ## 🎥 Gameplay Trailer
 
-> [*(Add your YouTube trailer link here)*](https://www.youtube.com/watch?v=XxoQJfI3ArE&t=25s)
-
-Example:
-
-https://youtu.be/your-video-id
+> Watch on Youtube (https://www.youtube.com/watch?v=XxoQJfI3ArE&t=25s)
 
 ---
 
