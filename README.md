@@ -1,2 +1,72 @@
-# finding-isabel-horror-game
-A psychological horror game developed in Unity as a capstone project.
+# 🎮 Finding Isabel
+
+A psychological horror desktop game developed as a capstone project using Unity.
+
+---
+
+## 🎥 Gameplay Trailer
+
+> [*(Add your YouTube trailer link here)*](https://www.youtube.com/watch?v=XxoQJfI3ArE&t=25s)
+
+Example:
+
+https://youtu.be/your-video-id
+
+---
+
+## 📖 About
+
+**Finding Isabel** is a psychological horror game where players explore eerie environments, solve puzzles, and uncover a mysterious story. The game focuses on atmospheric exploration, suspense, and immersive storytelling.
+
+---
+
+## 🛠️ Tech Stack
+
+- Unity
+- C#
+- Unity ProBuilder
+- Unity Asset Store
+- Quixel Assets
+- Mixamo
+- Blender
+- Unity Built-in Render Pipeline
+
+---
+
+## 📦 Project Status
+
+**Completed**  
+Capstone Project (2026)
+
+---
+
+## 👥 Team
+
+Developed as a capstone project with a team of student developers.
+
+---
+
+## 📸 Screenshots
+
+Add gameplay screenshots here.
+
+| Gameplay | Environment |
+|----------|-------------|
+| *(image)* | *(image)* |
+
+---
+
+## 🚀 Features
+
+- Psychological horror gameplay
+- Story-driven exploration
+- Puzzle solving
+- Atmospheric environments
+- Immersive sound design
+- First-person gameplay
+
+---
+
+## 📄 Note
+
+This repository serves as a portfolio showcase for the project. Some assets belong to their respective creators through the Unity Asset Store, Quixel, and Mixamo.
