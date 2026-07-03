@@ -44,11 +44,20 @@ Developed as a capstone project with a team of student developers.
 
 ## 📸 Screenshots
 
-Add gameplay screenshots here.
+### 🎮 Gameplay Start
+![Starting](Starting.png)
 
-| Gameplay | Environment |
-|----------|-------------|
-| *(image)* | *(image)* |
+### 🎮 Controls
+![Controls](gamecontrols.png)
+
+### 🧠 Interaction System
+![Grab](grab.png)
+
+### 🔍 Inspect System
+![Inspect](Inspect.png)
+
+### 🚪 Door Interaction
+![Open Door](OpenDoor.png)
 
 ---
 
