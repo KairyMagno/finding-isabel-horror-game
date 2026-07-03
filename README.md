@@ -48,16 +48,16 @@ Developed as a capstone project with a team of student developers.
 ![Starting](screenshots/Starting.png)
 
 ### 🎮 Controls
-![Controls](gamecontrols.png)
+![Controls](screenshots/gamecontrols.png)
 
 ### 🧠 Interaction System
-![Grab](grab.png)
+![Grab](screenshots/grab.png)
 
 ### 🔍 Inspect System
-![Inspect](Inspect.png)
+![Inspect](screenshots/Inspect.png)
 
 ### 🚪 Door Interaction
-![Open Door](OpenDoor.png)
+![Open Door](screenshots/OpenDoor.png)
 
 ---
 
